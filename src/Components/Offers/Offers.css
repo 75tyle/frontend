@@ -1,6 +1,6 @@
 .offers{
     width: 65%;
-    height: 60vh;
+    height: 60vw;
     display: flex;
     margin: auto;
     padding: 0px 14vw;
@@ -18,8 +18,8 @@
 
 .offers-left h1{
     color: #171717;
-    font-size: 4vw;
-    font-weight: 600;
+    font-size: 8vw;
+    font-weight: 700;
 }
 
 .offers-left p{
@@ -47,4 +47,8 @@
     align-items: center;
     justify-content: flex-end;
     padding-top: 5vw;
+}
+
+.offers-right img{
+    width: 40vw;
 }
