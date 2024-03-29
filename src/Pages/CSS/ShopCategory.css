@@ -13,9 +13,13 @@
 }
 
 .shopcategory-sort{
-    padding: 0.5vw 1.8vw;
-    border-radius: 40px;
+    padding: 0.1vw 1.8vw;
+    border-radius: 10vw;
     border: 1px solid #888;
+}
+
+.shopcategory-sort img{
+    width: 2vw;
 }
 
 .shopcateogry-indexSort p span{
