@@ -10,14 +10,14 @@
     margin-bottom: 13vw; */
 
     width: 65%;
-    height: 60vw;
+    height: 40vw;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     margin: auto;
     padding: 0px 14vw;
-    margin-bottom: 15vw;
+    margin-bottom: 5vw;
     background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
     gap: 3vw;
 }

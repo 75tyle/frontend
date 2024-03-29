@@ -11,11 +11,11 @@
     gap: 1vw;
 }
 .nav-logo img{
-    width: 6vw;
+    width: 4vw;
 }
 .nav-logo p{
     color: #171717;
-    font-size: 4vw;
+    font-size: 3vw;
     font-weight: 600;
 }
 
@@ -24,9 +24,9 @@
     display: flex;
     align-items: center;
     list-style: none;
-    gap: 5vw;
+    gap: 2.5vw;
     color: #626262;
-    font-size: 2vw;
+    font-size: 1.5vw;
     font-weight: 500;
 }
 
@@ -50,17 +50,21 @@
 .nav-login-cart{
     display: flex;
     align-items: center;
-    gap: 4vw;
+    gap: 3vw;
+}
+
+.nav-login-cart a{
+    display: contents;
 }
 
 .nav-login-cart button{
-    width: 14vw;
-    height: 5vw;
+    width: 12vw;
+    height: 4vw;
     outline: none;
     border: 1px solid #7a7a7a;
     border-radius: 75px;
     color: #515151;
-    font-size: 2vw;
+    font-size: 1.5vw;
     font-weight: 500;
     background: white;
     cursor: pointer;
@@ -70,7 +74,7 @@
     background: #f3f3f3;
 }
 .nav-login-cart img{
-    width: 5vw;
+    width: 4vw;
 }
 .nav-cart-count{
     width: 2.3vw;
@@ -79,7 +83,7 @@
     justify-content: center;
     align-items: center;
     margin-top: -4vw;
-    margin-left: -5vw;
+    margin-left: -4vw;
     border-radius: 50px;
     font-size: 1.5vw;
     background: red;
