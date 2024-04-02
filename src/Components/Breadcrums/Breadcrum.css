@@ -1,7 +1,7 @@
 .breadcrum{
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 1vw;
     color: #5e5e5e;
     font-size: 1vw;
     font-weight: 600;
