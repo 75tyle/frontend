@@ -146,9 +146,7 @@
     .hero-right{
         display: none;
     }
-    .hero-left{
-        width: 100%;
-    }
+
     .hero-left h2{
         font-size: 18px;
     }

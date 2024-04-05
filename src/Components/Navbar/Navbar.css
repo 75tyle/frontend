@@ -147,6 +147,7 @@
         padding: 10px 0px;
     }
     .nav-dropdown{
+        cursor: pointer;
         display: block;
         width: 25px;
         rotate: -90deg;
